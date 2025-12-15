@@ -51,4 +51,4 @@ if not result.empty:
     print("\nRecord Found!")
     print(result[["name","class","marks"]])
 else:
-    print("\nNo record found for this name.")
+    print("\nNo record found for this name..")
