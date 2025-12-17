@@ -1,0 +1,16 @@
+Student_ID,Gender,Math_Score,Reading_Score,Writing_Score,Study_Hours,Attendance_Percentage
+S001,Male,78,72,75,2.5,88
+S002,Female,85,80,82,3.0,92
+S003,Male,NaN,65,70,1.5,70
+S004,Female,90,88,91,4.0,95
+S005,Male,60,58,55,1.0,68
+S006,Female,72,75,NaN,2.0,80
+S007,Male,88,85,87,3.5,90
+S008,Female,95,92,94,4.5,98
+S009,Male,67,70,65,2.0,75
+S010,Female,80,78,82,3.0,85
+S011,Male,55,60,58,1.2,65
+S012,Female,NaN,85,88,3.8,90
+S013,Male,82,80,78,2.8,88
+S014,Female,70,72,74,2.2,78
+S015,Male,92,90,89,4.2,96
